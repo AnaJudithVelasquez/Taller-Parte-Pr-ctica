@@ -1,0 +1,50 @@
+body {
+    background-image: url("fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px;
+    color: black;
+}
+
+a {
+    color: #7a1f4b;   
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+a:hover {
+    color: #5a1436;   
+}
+
+
+img {
+    width: 280px;   
+    border-radius: 12px;
+}
+
+
+button {
+    background-color: #ff007f;
+    color: white;
+    border: none;
+    padding: 10px 22px;
+    font-size: 19px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e60073;
+}
