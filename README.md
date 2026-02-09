@@ -1,4 +1,4 @@
-# Taller-Parte-Pr-ctica
+# Taller-Parte-Práctica
 
 🍭Instrucciones para abrir la página web🍭
 
