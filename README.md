@@ -70,3 +70,15 @@ Porque hacen que el código sea más fácil de entender, mantener y corregir, ya
 
 ## 11. ¿Qué es una variable de entorno y por qué son importantes?
 Una variable de entorno guarda información importante como claves o configuraciones. Son importantes porque ayudan a proteger datos sensibles y facilitan la configuración de los programas.
+
+## 12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?
+Son herramientas que ayudan a revisar y depurar páginas web. Se accede haciendo clic derecho en la página y seleccionando **Inspeccionar** o presionando **F12**.
+
+## 13. ¿Qué se puede hacer en el panel “Elements”?
+En el panel **Elements** se puede ver y modificar el HTML y CSS de la página en tiempo real.
+
+## 14. ¿Cómo se utiliza el panel “Console” y para qué es útil?
+El panel **Console** se usa para ver errores y mensajes de JavaScript. Es útil para probar código y verificar si funciona correctamente.
+
+## 15. ¿Qué información se obtiene del panel “Network” y por qué es importante?
+El panel **Network** muestra las solicitudes que hace la página, como archivos, imágenes o datos. Es importante para revisar tiempos de carga y errores de conexión.
