@@ -36,15 +36,15 @@ Una propiedad en CSS es lo que se quiere cambiar de un elemento. Las más comune
 - `padding`: controla el espacio interno del elemento.  
 
 ## 6. ¿Qué es un selector en CSS y cuáles tipos existen?
-Un selector es lo que se usa para indicar a qué elementos se le van a aplicar los estilos.
+Un selector es lo que se usa para indicar a qué elementos HTML se les van a aplicar los estilos.
 
 Tipos de selectores:
-- Selector por etiqueta (`p`, `h1`).  
-- Selector por clase (`.clase`).  
-- Selector por id (`#id`).  
-- Selector universal (`*`).  
-- Selector descendente (`div p`).  
-- Selector de atributo (`input[type="text"]`).  
+- **Selector por etiqueta (`p`, `h1`)**: selecciona todos los elementos de una etiqueta.
+- **Selector por clase (`.clase`)**: se usa cuando varios elementos comparten el mismo estilo.
+- **Selector por id (`#id`)**: se usa para identificar y aplicar estilos a un solo elemento específico.
+- **Selector universal (`*`)**: aplica estilos a todos los elementos de la página.
+- **Selector descendente (`div p`)**: selecciona elementos que están dentro de otros elementos.
+- **Selector de atributo (`input[type="text"]`)**: selecciona elementos según un atributo específico.
 
 ## 7. ¿Qué es JavaScript y cómo añade interactividad a las páginas web?
 JavaScript es un lenguaje de programación que permite que las páginas web sean interactivas. Se usa para que la página responda a acciones del usuario como hacer clic en un botón, mostrar mensajes o cambiar contenido sin recargar la página.
@@ -68,17 +68,17 @@ Las estructuras de control permiten tomar decisiones o repetir acciones:
 ## 10. ¿Por qué es importante usar nombres significativos para variables y métodos?
 Porque hacen que el código sea más fácil de entender, mantener y corregir, ya que un buen nombre permite saber para qué sirve una variable sin leer todo el código.
 
-## 11. ¿Qué es una variable de entorno y por qué son importantes?
+## 11. ¿Qué es una variable de entorno y por qué son importantes para JavaScript o la programación en general?
 Una variable de entorno guarda información importante como claves o configuraciones. Son importantes porque ayudan a proteger datos sensibles y facilitan la configuración de los programas.
 
 ## 12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?
 Son herramientas que ayudan a revisar y depurar páginas web. Se accede haciendo clic derecho en la página y seleccionando **Inspeccionar** o presionando **F12**.
 
-## 13. ¿Qué se puede hacer en el panel “Elements”?
-En el panel **Elements** se puede ver y modificar el HTML y CSS de la página en tiempo real.
+## 13. ¿Qué se puede hacer en el panel “Elements” de las herramientas de desarrollo?
+En el panel **Elements** se puede ver y modificar el HTML y el CSS de la página en tiempo real.
 
-## 14. ¿Cómo se utiliza el panel “Console” y para qué es útil?
-El panel **Console** se usa para ver errores y mensajes de JavaScript. Es útil para probar código y verificar si funciona correctamente.
+## 14. ¿Cómo se utiliza el panel “Console” de las herramientas de desarrollo y para qué es útil?
+El panel **Console** se utiliza para ver errores y mensajes del código JavaScript. Es útil para probar código y verificar si funciona correctamente.
 
 ## 15. ¿Qué información se obtiene del panel “Network” y por qué es importante?
 El panel **Network** muestra las solicitudes que hace la página, como archivos, imágenes o datos. Es importante para revisar tiempos de carga y errores de conexión.
